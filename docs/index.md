@@ -6,7 +6,7 @@
 - Published: 1429
 - Language: Old French
 - Translated in English: A. J. Kennedy and K. Varty, Oxford: Society for the Study of Medieval Languages and Literature, 1977
-- Video: Christian Tzurcanu
+- Video, Images, Music: Christian Tzurcanu
 
 [Integral text and English translation](ditie.html)
 
